@@ -109,3 +109,5 @@ Created by **Elmar Chavez**
 🗓️ Month/Year: **August 2025**
 
 📚 Journey: **5<sup>th</sup>** month of learning _frontend web development_.
+
+<!-- TEST PULL REQUEST COMMENT -->
