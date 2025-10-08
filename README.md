@@ -1,4 +1,4 @@
-# 💻 RainDrop
+# RainDrop
 
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
@@ -14,7 +14,7 @@
 ![Responsive Layout](https://img.shields.io/badge/Responsive%20Layout-Full%20Support-blue?style=for-the-badge)
 ![Mobile First](https://img.shields.io/badge/Mobile--First-Design-orange?style=for-the-badge)
 ![Dark Mode](https://img.shields.io/badge/Dark--Mode-Available-111?style=for-the-badge&logo=halfbrickstudios&logoColor=white)
-[![Fetch API](https://img.shields.io/badge/API_NAME%20API-Used-1976d2?style=for-the-badge)](https://weather-proxy.freecodecamp.rocks/)
+[![Fetch API](https://img.shields.io/badge/FCC%20WEATHER%20API-Used-1976d2?style=for-the-badge)](https://weather-proxy.freecodecamp.rocks/)
 ![Dynamic Content](https://img.shields.io/badge/Dynamic%20Content-Available-673ab7?style=for-the-badge)
 [![Google Lighthouse](https://img.shields.io/badge/Lighthouse-Audit-00B0FF?style=for-the-badge&logo=lighthouse&logoColor=white)](./assets/downloads/lighthouse-performance-report.pdf)
 
@@ -23,7 +23,7 @@
 ![Learning Path](https://img.shields.io/badge/learning%20path-month%205-blue)
 ![Views](https://visitor-badge.laobi.icu/badge?page_id=CodingWithJiro.freecodecamp-js-weather-app&left_text=repo%20views)
 
-## ℹ️ RainDrop: An Interactive Weather App that Utilizes FCC's Weather API
+## RainDrop: An Interactive Weather App that Utilizes FCC's Weather API
 
 | _Mobile Preview (375x812)_                                   | _Desktop Preview (1440x960)_                                    |
 | ------------------------------------------------------------ | --------------------------------------------------------------- |
@@ -31,20 +31,20 @@
 | ![Mobile](./assets/img/site-preview-mobile-dark_375x812.png) | ![Desktop](./assets/img/site-preview-desktop-dark_1440x960.png) |
 
 RainDrop is a lightweight, accessible weather application built with **vanilla HTML, CSS, and JavaScript**.  
-It uses the **freeCodeCamp Weather API** to fetch a non-live weather data and displays it in a responsive, mobile-first interface.
+It uses the **[freeCodeCamp Weather API](https://weather-proxy.freecodecamp.rocks/)** to fetch a non-live weather data and displays it in a responsive, mobile-first interface.
 
-Created and inspired from the lab challenges of [**freeCodeCamp.org**](https://www.freecodecamp.org/learn/full-stack-developer/) JavaScript course.
+Created and inspired from the lab challenges of **[freeCodeCamp.org](https://www.freecodecamp.org/learn/full-stack-developer/)** JavaScript course.
 
 ---
 
-## 🔍 Overview
+## Overview
 
 RainDrop combines clean UI design, accessibility practices, and JavaScript modularization into one project.  
 The app demonstrates how to structure code across modules for easier maintainability, and how to integrate API data into a responsive web app.
 
 ---
 
-## ✨ Features
+## Features
 
 - Fetches weather data from the **freeCodeCamp Weather API**
 - Theme toggle support enabled
@@ -56,7 +56,7 @@ The app demonstrates how to structure code across modules for easier maintainabi
 
 ---
 
-## 🧠 What I Learned
+## What I Learned
 
 - Strengthened my knowledge with JavaScript modules (`api.js`, `ui.js`, `weather.js`, `theme.js`)
 - Handling asynchronous data fetching with `fetch()` and error management
@@ -66,7 +66,7 @@ The app demonstrates how to structure code across modules for easier maintainabi
 
 ---
 
-## 🛠️ Tech Used
+## Tech Used
 
 - HTML5
 - CSS3
@@ -77,37 +77,35 @@ The app demonstrates how to structure code across modules for easier maintainabi
 
 ---
 
-## 🎨 Design Reference & Tools
+## Design Reference & Tools
 
 - Figma
 
 ---
 
-## 🚀 How to Run
+## How to Run
 
 1. Clone the repository
 2. Open `index.html` in your browser
 
 ---
 
-## 🌐 Live Demo
+## Live Demo
 
-Or you can check out the 👉 [live website here](https://raindrop-fcc-jiro.netlify.app/)
-
----
-
-## 📊 Performance Report
-
-A **Google Lighthouse** audit was conducted on the final version of this project. You can view the full report [here](./assets/downloads/lighthouse-performance-report.pdf).
+Or you can check out the **[live website here](https://raindrop-fcc-jiro.netlify.app/)**
 
 ---
 
-## 🧑‍💻 Author
+## Performance Report
+
+A **Google Lighthouse** audit was conducted on the final version of this project. You can view the **[full report here](./assets/downloads/lighthouse-performance-report.pdf)**.
+
+---
+
+## Author
 
 Created by **Elmar Chavez**
 
-🗓️ Month/Year: **August 2025**
+Month/Year: **August 2025**
 
-📚 Journey: **5<sup>th</sup>** month of learning _frontend web development_.
-
-<!-- TEST PULL REQUEST COMMENT -->
+Journey: **5<sup>th</sup>** month of learning _frontend web development_.
